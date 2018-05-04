@@ -16,3 +16,6 @@
 [submodule "SuperMarioBrothers"]
 	path = SuperMarioBrothers
 	url = https://github.com/takayuki5168/SuperMarioBrothers
+[submodule "RecogNumberOnWeb"]
+	path = RecogNumberOnWeb
+	url = https://github.com/takayuki5168/RecogNumberOnWeb
