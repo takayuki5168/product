@@ -19,3 +19,6 @@
 [submodule "RecogNumberOnWeb"]
 	path = RecogNumberOnWeb
 	url = https://github.com/takayuki5168/RecogNumberOnWeb
+[submodule "FlowerSpecifier"]
+	path = FlowerSpecifier
+	url = https://github.com/takayuki5168/FlowerSpecifier
