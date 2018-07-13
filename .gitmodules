@@ -22,3 +22,6 @@
 [submodule "RecogNumberOnWeb"]
 	path = RecogNumberOnWeb
 	url = https://github.com/takayuki5168/RecogNumberOnWeb
+[submodule "OthelloGame"]
+	path = OthelloGame
+	url = https://github.com/takayuki5168/OthelloGame.git
