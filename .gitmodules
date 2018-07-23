@@ -26,5 +26,5 @@
 	path = OthelloGame
 	url = https://github.com/takayuki5168/OthelloGame.git
 [submodule "HopfieldNeuralNetwork"]
-	path = OthelloGame
+	path = HopfieldNeuralNetwork
 	url = https://github.com/takayuki5168/HopfieldNeuralNetwork.git
