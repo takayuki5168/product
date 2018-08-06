@@ -3,7 +3,7 @@ I will show you some of my products!
 
 ## Deep Leaning Library for C++
 You can make various model of DNN by using this.
-```python
+```cpp
 // init network
 auto dnn = initDeepNeuralNetwork();
 
