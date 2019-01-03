@@ -37,3 +37,6 @@
 [submodule "CppRobotics"]
 	path = CppRobotics
 	url = https://github.com/takayuki5168/CppRobotics
+[submodule "game_with_euslisp"]
+	path = game_with_euslisp
+	url = https://github.com/takayuki5168/game_with_euslisp
