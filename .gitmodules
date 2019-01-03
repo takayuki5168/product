@@ -34,3 +34,6 @@
 [submodule "fk_with_nn"]
 	path = fk_with_nn
 	url = https://github.com/takayuki5168/fk_with_nn.git
+[submodule "CppRobotics"]
+	path = CppRobotics
+	url = https://github.com/takayuki5168/CppRobotics.git
