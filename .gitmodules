@@ -43,6 +43,6 @@
 [submodule "UsefulScripts"]
 	path = UsefulScripts
 	url = https://github.com/takayuki5168/UsefulScripts
-[submodule "MatplotlibTemplate"]
-	path = MatplotlibTemplate
-	url = https://github.com/takayuki5168/MatplotlibTemplate
+[submodule "MatplotlibStarter"]
+	path = MatplotlibStarter
+	url = https://github.com/takayuki5168/MatplotlibStarter
