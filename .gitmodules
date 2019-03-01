@@ -31,3 +31,6 @@
 [submodule "MatplotlibStarter"]
 	path = MatplotlibStarter
 	url = https://github.com/takayuki5168/MatplotlibStarter
+[submodule "web-shooting-game"]
+	path = web-shooting-game
+	url = https://github.com/takayuki5168/web-shooting-game
