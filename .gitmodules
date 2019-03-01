@@ -4,12 +4,6 @@
 [submodule "StarFox"]
 	path = StarFox
 	url = https://github.com/takayuki5168/StarFox
-[submodule "BlockDiagramMaker"]
-	path = BlockDiagramMaker
-	url = https://github.com/takayuki5168/BlockDiagramMaker
-[submodule "Blockchain"]
-	path = Blockchain
-	url = https://github.com/takayuki5168/Blockchain
 [submodule "MusicalScoreMaker"]
 	path = MusicalScoreMaker
 	url = https://github.com/takayuki5168/MusicalScoreMaker
