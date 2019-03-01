@@ -4,18 +4,12 @@
 [submodule "StarFox"]
 	path = StarFox
 	url = https://github.com/takayuki5168/StarFox
-[submodule "MusicalScoreMaker"]
-	path = MusicalScoreMaker
-	url = https://github.com/takayuki5168/MusicalScoreMaker
 [submodule "SuperMarioBrothers"]
 	path = SuperMarioBrothers
 	url = https://github.com/takayuki5168/SuperMarioBrothers
 [submodule "FlowerSpecifier"]
 	path = FlowerSpecifier
 	url = https://github.com/takayuki5168/FlowerSpecifier
-[submodule "RecogNumberOnWeb"]
-	path = RecogNumberOnWeb
-	url = https://github.com/takayuki5168/RecogNumberOnWeb
 [submodule "OthelloGame"]
 	path = OthelloGame
 	url = https://github.com/takayuki5168/OthelloGame.git
