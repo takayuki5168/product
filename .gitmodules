@@ -28,9 +28,6 @@
 [submodule "HopfieldNeuralNetwork"]
 	path = HopfieldNeuralNetwork
 	url = https://github.com/takayuki5168/HopfieldNeuralNetwork.git
-[submodule "takayuki5168.github.io"]
-	path = takayuki5168.github.io
-	url = https://github.com/takayuki5168/takayuki5168.github.io.git
 [submodule "fk_with_nn"]
 	path = fk_with_nn
 	url = https://github.com/takayuki5168/fk_with_nn.git
