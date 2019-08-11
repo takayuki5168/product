@@ -34,3 +34,6 @@
 [submodule "web-shooting-game"]
 	path = web-shooting-game
 	url = https://github.com/takayuki5168/web-shooting-game
+[submodule "cubic_spline_generator"]
+	path = cubic_spline_generator
+	url = https://github.com/takayuki5168/cubic_spline_generator
