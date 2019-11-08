@@ -1,12 +1,6 @@
-[submodule "DeepNeuralNetwork"]
-	path = DeepNeuralNetwork
-	url = https://github.com/takayuki5168/DeepNeuralNetwork
 [submodule "StarFox"]
 	path = StarFox
 	url = https://github.com/takayuki5168/StarFox
-[submodule "SuperMarioBrothers"]
-	path = SuperMarioBrothers
-	url = https://github.com/takayuki5168/SuperMarioBrothers
 [submodule "FlowerSpecifier"]
 	path = FlowerSpecifier
 	url = https://github.com/takayuki5168/FlowerSpecifier
@@ -19,12 +13,6 @@
 [submodule "fk_with_nn"]
 	path = fk_with_nn
 	url = https://github.com/takayuki5168/fk_with_nn.git
-[submodule "CppRobotics"]
-	path = CppRobotics
-	url = https://github.com/takayuki5168/CppRobotics
-[submodule "game_with_euslisp"]
-	path = game_with_euslisp
-	url = https://github.com/takayuki5168/game_with_euslisp
 [submodule "UsefulScripts"]
 	path = UsefulScripts
 	url = https://github.com/takayuki5168/UsefulScripts
