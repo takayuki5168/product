@@ -6,6 +6,9 @@ I will show you some of my products!
 [Here](https://github.com/takayuki5168/HopfieldNeuralNetwork/) in detail.
 
 ### Forward Kinematics with Neural Network
+![FK](https://github.com/takayuki5168/fk_with_nn/blob/master/gif/random-fk.gif)
+![IK](https://github.com/takayuki5168/fk_with_nn/blob/master/gif/ik-with-nn.gif)
+
 [Here](https://github.com/takayuki5168/fk_with_nn/) in detail.
 
 ### cubic_spline_generator
@@ -33,4 +36,6 @@ I will show you some of my products!
 [Here](https://github.com/takayuki5168/MatplotlibStarter/) in detail.
 
 ### CADAnalyzer
+![sample1](figs/sample1.png)
+
 [Here](https://github.com/takayuki5168/CADAnalyzer/) in detail.
