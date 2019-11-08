@@ -25,3 +25,6 @@
 [submodule "cubic_spline_generator"]
 	path = cubic_spline_generator
 	url = https://github.com/takayuki5168/cubic_spline_generator
+[submodule "CADAnalyzer"]
+	path = CADAnalyzer
+	url = https://github.com/takayuki5168/CADAnalyzer

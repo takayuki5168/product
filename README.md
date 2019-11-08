@@ -36,6 +36,6 @@ I will show you some of my products!
 [Here](https://github.com/takayuki5168/MatplotlibStarter/) in detail.
 
 ### CADAnalyzer
-![sample1](figs/sample1.png)
+![sample1](https://github.com/takayuki5168/CADAnalyzer/blob/master/figs/sample1.png)
 
 [Here](https://github.com/takayuki5168/CADAnalyzer/) in detail.
